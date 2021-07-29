@@ -7,6 +7,30 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+
+# Proyek-OLMS
+Tugas Akhir Mata Kuliah Pemograman Web
+
+Sistem Manajemen Perpustakaan Online
+
+Anggota Kelompok
+- Jeskel Fornadi Gotama (20190801003 )
+- Fernando (20190801004 )
+- Oki Gunawan Pratama (20190801014)
+- Edwin (20190801015 )
+
+
+sebelum memulai program harap ikuti langkah berikut agar program dapat berjalan dengan baik:
+1. extract file dan pindahkan folder librari ke htdocs
+2. pada xampp nyalakan apache dan mysql
+3. pada phpmyadmin buat sebuah database yang bernama "laravel"
+4. buka terminal dan arahkan directory menuju folder berikut
+5. ketikan php artisan serve
+6. copy link yang diberikan dan buka link tersebut pada browser masing masing
+
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
@@ -76,6 +100,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# Laravel-Library
-# librari
-# librari
